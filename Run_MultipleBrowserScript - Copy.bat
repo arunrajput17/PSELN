@@ -1,4 +1,5 @@
-D:
-cd D:\Day Shift\Zpyth\Pseln\venv\Scripts
-activate.bat
+
+.\venv\Scripts\activate.bat
+python MultiBrowser.py
+
 pause
