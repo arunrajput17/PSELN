@@ -9,3 +9,167 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1592040211863	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arunk\\AppData\\Local\\Temp\\rust_mozprofileCxX1lw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592040224303	Marionette	INFO	Listening on port 61180
+1592040226544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+1592040248372	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 81: TypeError: browser is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+1592040261641	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+Get@https://tags.tiqcdn.com/utag/expedia/main/prod/utag.js:510:708
+utag.loader.GET/utag.handler.extend<@https://tags.tiqcdn.com/utag/expedia/main/prod/utag.js:511:31
+RE@https://tags.tiqcdn.com/utag/expedia/main/prod/utag.js:172:24
+utag.loader.PINIT@https://tags.tiqcdn.com/utag/expedia/main/prod/utag.js:684:32
+@https://tags.tiqcdn.com/utag/expedia/main/prod/utag.js:689:265
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1592040303023	Marionette	INFO	Stopped listening on port 61180
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ening on port 61379
+1592040286528	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://c.travel-assets.com/blossom-flex-ui/flex-RecentlyViewedWrapper.5ae0fbdd1f50bc0ffbca.js, line 1: TypeError: e is null
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592040321140	Marionette	INFO	Stopped listening on port 61379
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592040326144	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arunk\\AppData\\Local\\Temp\\rust_mozprofileOBa36D"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592040330956	Marionette	INFO	Listening on port 61513
+1592040333158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+1592040362680	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+Get@https://tags.tiqcdn.com/utag/expedia/main/prod/utag.js:510:708
+utag.loader.GET/utag.handler.extend<@https://tags.tiqcdn.com/utag/expedia/main/prod/utag.js:511:31
+RE@https://tags.tiqcdn.com/utag/expedia/main/prod/utag.js:172:24
+utag.loader.PINIT@https://tags.tiqcdn.com/utag/expedia/main/prod/utag.js:684:32
+@https://tags.tiqcdn.com/utag/expedia/main/prod/utag.js:689:265
+1592040365933	Marionette	INFO	Stopped listening on port 61513
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380131,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380131,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380131,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592040435977	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arunk\\AppData\\Local\\Temp\\rust_mozprofilecMJzXw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592040440783	Marionette	INFO	Listening on port 61717
+1592040440834	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+1592040476278	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 81: TypeError: browser is null
+1592040482732	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+Get@https://tags.tiqcdn.com/utag/expedia/main/prod/utag.js:510:708
+utag.loader.GET/utag.handler.extend<@https://tags.tiqcdn.com/utag/expedia/main/prod/utag.js:511:31
+RE@https://tags.tiqcdn.com/utag/expedia/main/prod/utag.js:172:24
+utag.loader.PINIT@https://tags.tiqcdn.com/utag/expedia/main/prod/utag.js:684:32
+@https://tags.tiqcdn.com/utag/expedia/main/prod/utag.js:689:265
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+1592040486314	Marionette	INFO	Stopped listening on port 61717
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://www.uciservice.com/assets/md-libs/1.0/8685e578d5a314d49b0e57ab0cfc259792266b28/meso-performance.js, line 1: NS_ERROR_FAILURE: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592040504597	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arunk\\AppData\\Local\\Temp\\rust_mozprofilekvQ0iF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592040511379	Marionette	INFO	Listening on port 61918
+1592040511738	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://c.travel-assets.com/blossom-flex-ui/flex-RecentlyViewedWrapper.5ae0fbdd1f50bc0ffbca.js, line 1: TypeError: e is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1592040528313	Marionette	INFO	Stopped listening on port 61918
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592040535701	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\arunk\\AppData\\Local\\Temp\\rust_mozprofileZaO4yH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592040539872	Marionette	INFO	Listening on port 61998
+1592040539924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://c.travel-assets.com/blossom-flex-ui/flex-RecentlyViewedWrapper.5ae0fbdd1f50bc0ffbca.js, line 1: TypeError: e is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592040557779	Marionette	INFO	Stopped listening on port 61998
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
