@@ -22,3 +22,8 @@ CRITICAL:root:This is critical message
 06/18/2020 09:37:AM: WARNING: This is warning message
 06/18/2020 09:37:AM: ERROR: This is error message
 06/18/2020 09:37:AM: CRITICAL: This is critical message
+06/22/2020 02:42:AM: DEBUG: This is debug message
+06/22/2020 02:42:AM: INFO: This is info message
+06/22/2020 02:42:AM: WARNING: This is warning message
+06/22/2020 02:42:AM: ERROR: This is error message
+06/22/2020 02:42:AM: CRITICAL: This is critical message
