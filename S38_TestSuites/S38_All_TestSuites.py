@@ -2,11 +2,17 @@
 
 import unittest
 
+#### This very Important command if working on Folder structure and want to execute
+import sys
+sys.path.append('D:/Day Shift/Zpyth/Pseln/')
+
+
 ## Importing all the classes from packages
 from S38_Package1.TC_LoginTest import LoginTest
 from S38_Package1.TC_SignupTest import SignupTest
 from S38_Package2.TC_PaymentReturnsTest import PaymentReturnsTest
 from S38_Package2.TC_PaymentTest import PaymentTest
+
 
 # Get all tests from LoginTest, SignupTest, PaymentTest and PaymentReturnsTest
 tc1 = unittest.TestLoader().loadTestsFromTestCase(LoginTest)
@@ -25,3 +31,9 @@ masterTestSuite = unittest.TestSuite([tc1,tc2,tc3,tc4]) # Master test suite
 
 # Another way of execution with verbosity will give detail info
 unittest.TextTestRunner(verbosity=2).run(masterTestSuite)  #Execute Master test suite
+
+
+#### To execute #############
+## should be under main folder i.e. Pseln in this case
+## use following command
+## python S38_TestSuites/S38_All_TestSuites.py
