@@ -2,3 +2,4 @@ selenium
 OpenPyXL
 pytest
 html-testRunner
+pyodbc
