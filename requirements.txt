@@ -3,3 +3,4 @@ OpenPyXL
 pytest
 html-testRunner
 pyodbc
+pytest-html
